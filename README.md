@@ -17,6 +17,12 @@
 </p>
 
 <p>Me: Okay, <b>ENOUGH!</b> Both of you need to <i>stop</i>. (Turn to  Doombringer) <i>Doombringer</i>, you can't tell Itrapped that her haircut looks ugly. Many females choose to have their hair short. You don't have to like it, but you can't just tell her that her hair looks ugly. <b>(Turn to Itrapped)</b> And you, <i>Itrapped</i>, are just a rude as Doombringer . You can't just force him to like your haircut. If he doesn't like it, then <b>deal with it!</b> You should be doing this haircut for <b>yourself</b>.  <b><i>Not for others.</i></b> </p>
-
+<p> ‎  </p>
+<p> ‎  </p> 
 <br clear="right" />
 
+<p align="center">
+  <img src="lace_divider.png" />
+</p>
+
+<p align="center">  <img width="100" src="ELLIOT_STAMP.png"> <img width="100" src="INFECTED_STAMP.png"> <img width="100" src="RCAHH_stamp.gif"> <img width="100" src="artful_stamp.gif"> <img width="100" src="banhammer_stamp.gif"> <img width="100" src="bassie_stamp.gif"> <img width="100" src="builderman_stamp.gif"> <img width="100" src="chudletsky_stamp.gif"> <img width="100" src="ck_stamp.png"> <img width="100" src="mach_stamp.png"><img width="100" src="lampert_stamp.png"><img width="100" src="clockwork_stamp.png"> <img width="100" src="doombringer_stamp.gif"> <img width="100" src="doomtrapped_stamp.png"> <img width="100" src="ellertrapped_stamp.png"> <img width="100" src="itrapped_stamp.png"> <img width="100" src="mm12_stamp.gif">  <img width="100" src="robloxhighschool_stamp.png"> <img width="100" src="shedandbuilder_stamp.gif"> <img width="100" src="shrimpo_stamp.png"> <img width="100" src="stickmasterluke_stamp.png"> <img width="100" src="thenormalelevator_stamp.jpg"> <img width="100" src="waapp_stamp.png"> </p>
